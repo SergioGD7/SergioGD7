@@ -1,7 +1,7 @@
 # Hey, I'm Sergio
 
 # 💫 About Me:
-I am a Software Developer & QA Analyst from Salamanca, Spain 🇪🇸<br>Visit my personal website portfolio<br>Techstack: Java, Python, HTML, CSS, JavaScript, TypeScript
+I am a Software Developer & QA Analyst from Salamanca, Spain 🇪🇸
 
 
 ## 🌐 Socials:
